@@ -1,0 +1,57 @@
+[
+	{
+		"id": 2,
+		"title": "aasd",
+		"description": "aasd",
+		"code": "dad",
+		"price": "aasaad",
+		"status": true,
+		"stock": 12312,
+		"category": "coca",
+		"thumbnail": "asda"
+	},
+	{
+		"id": 3,
+		"title": "aasd",
+		"description": "aasd",
+		"code": "dad",
+		"price": "aasaad",
+		"status": true,
+		"stock": 12312,
+		"category": "coca",
+		"thumbnail": "asda"
+	},
+	{
+		"id": 4,
+		"title": "aasd",
+		"description": "aasd",
+		"code": "daasdd",
+		"price": "aasaad",
+		"status": true,
+		"stock": 12312,
+		"category": "coca",
+		"thumbnail": "asda"
+	},
+	{
+		"id": 5,
+		"title": "aasd",
+		"description": "aasd",
+		"code": "daasasddd",
+		"price": "aasaad",
+		"status": true,
+		"stock": 12312,
+		"category": "coca",
+		"thumbnail": "asda"
+	},
+	{
+		"id": 6,
+		"title": "Banana",
+		"description": "aasd",
+		"code": "daasasdasddd",
+		"price": "aasaad",
+		"status": true,
+		"stock": 12312,
+		"category": "coca",
+		"thumbnail": "asda"
+	}
+]
