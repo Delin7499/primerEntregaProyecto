@@ -65,7 +65,6 @@ productRouter.delete("/:pid", async (req, res) => {
     await pm.deleteProduct(pid);
     res.status(204).send();
   } catch (error) {
-    console.error(error);
     res.status(500).send("Error");
   }
 });
@@ -78,8 +77,7 @@ productRouter.put("/:pid", async (req, res) => {
     await pm.updateProduct(pid, updatedData);
     res.status(204).send();
   } catch (error) {
-    console.error(error);
-    res.status(500).send("Error");
+    res.status(500).send(error);
   }
 });
 
